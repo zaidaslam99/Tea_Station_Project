@@ -8,8 +8,6 @@ This website is used to advertise a specific product or brand.
 * JavaScript
 * HTML 
 * CSS
-* SCSS
-* DOM Manipulation
 
 # Project Screenshots
 
