@@ -28,7 +28,7 @@ This website is used to advertise a specific product or brand.
 
 ### HTML Portion
 
-There were important concepts that I learned one of the biggest being implementations of frontend design. For this project, I started off with different sections and each section had its own component for instance check the product section down below. 
+There were important concepts that I learned from this project, one important concept being implementations of frontend design. For this project, I started off with different sections and each section had its own component; for instance check the product section down below. 
 
 ```html
 <!-- products -->
@@ -88,7 +88,7 @@ There were important concepts that I learned one of the biggest being implementa
 </div>
 </section>
 ```
-As you can tell we have declared a section tag and within it, we have two different article tags which are both within a div tag. This format ultimately dictates what you see on the screen. Within each article, we have div tags that are used, so we can call our CSS to style them. The best way to describe what is going on is to imagine a square within a square within a square. This overall is the core concept design when it comes to the HTML part of this code. Each of the sections that we are working with is going to be replicating this simple concept. However, depending on the sections our article tag ratios to content will fluctuate. 
+As you can tell we have declared a section tag and within it we have two different article tags which are both within a div tag. This format ultimately dictates what you see on the screen. Within each article we have div tags that are used, we use CSS to style our div tag. The best way to describe what is going on is to imagine a square within a square within a square. This overall is the core concept design when it comes to the HTML part of this code. Each of the sections that we are working with is going to be replicating this simple concept. However, depending on the sections our article tag ratios to content will fluctuate. 
 
 ### CSS Portion
 
